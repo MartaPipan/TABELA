@@ -1,0 +1,43 @@
+table {
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(9, 147, 221);
+    font-style: normal;
+}
+
+th,
+td {
+    border: 1px solid rgb(151, 146, 146);
+    padding: 10px;
+    line-height: 150%;
+}
+
+th {
+    background-color: rgba(183, 187, 187, 0.36);
+    font-weight: bold;
+}
+
+td {
+    width: 50%;
+    color: rgb(100, 98, 98);
+    background: none;
+    font-weight: 500;
+}
+
+.small-font {
+    font-size: 14px;
+}
+
+.th-cell-style {
+    font-style: italic;
+}
+
+.td-change-font {
+    color: rgb(9, 147, 221);
+}
+
+.link-element {
+    color: rgb(72, 72, 245);
+}
